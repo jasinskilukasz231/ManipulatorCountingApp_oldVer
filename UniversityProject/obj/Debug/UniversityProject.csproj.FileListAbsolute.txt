@@ -1,0 +1,15 @@
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\bin\Debug\UniversityProject.exe.config
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\bin\Debug\UniversityProject.exe
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\bin\Debug\UniversityProject.pdb
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\obj\Debug\UniversityProject.csproj.AssemblyReference.cache
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\obj\Debug\UniversityProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\obj\Debug\UniversityProject.Properties.Resources.resources
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\obj\Debug\ProjectApp.window.resources
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\obj\Debug\UniversityProject.csproj.GenerateResource.cache
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\obj\Debug\UniversityProject.csproj.CoreCompileInputs.cache
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\obj\Debug\UniversityProject.exe
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\obj\Debug\UniversityProject.pdb
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\obj\Debug\UniversityProject.csproj.CopyComplete
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\bin\Debug\Accord.Math.dll
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\bin\Debug\Accord.dll
+C:\Users\jasin\Desktop\programy\C#\ProjectApp\UniversityProject\bin\Debug\Accord.Math.Core.dll
